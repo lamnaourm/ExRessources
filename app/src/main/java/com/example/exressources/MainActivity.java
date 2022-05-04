@@ -23,5 +23,9 @@ public class MainActivity extends AppCompatActivity {
         String[] tab = getResources().getStringArray(R.array.filiere);
 
 
+        int a = getResources().getInteger(R.integer.val1);
+        int b = getResources().getInteger(R.integer.val1);
+
+        int[] tabint = getResources().getIntArray(R.array.ar1);
     }
 }
