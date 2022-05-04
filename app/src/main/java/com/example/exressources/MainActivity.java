@@ -19,5 +19,9 @@ public class MainActivity extends AppCompatActivity {
         String ch2 = getString(R.string.chaine2);
 
         t.setText(ch2);
+
+        String[] tab = getResources().getStringArray(R.array.filiere);
+
+
     }
 }

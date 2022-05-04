@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="chaine1">primero texto</string>
+    <string name="chaine2">Secondo texto</string>
+    <string name="chaine3">Thirdo texto</string>
+
+    <string-array name="filiere">
+        <item>TRI</item>
+        <item>INFO</item>
+        <item>TDI</item>
+    </string-array>
+</resources>
